@@ -1,0 +1,19 @@
+body {
+  box-sizing: border-box;
+}
+
+input {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+/* input,
+label {
+  margin: auto;
+  text-align: center;
+} */
+.container {
+  margin: auto;
+  width: 50%;
+}
